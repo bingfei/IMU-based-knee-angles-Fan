@@ -1,5 +1,5 @@
 
-Release Note:
+### Release Note:
 
 This code is corresponding to the following paper
 
@@ -16,6 +16,6 @@ Update:
 2021-05-10
 Initial release, contain the core algorithm for 3D knee joint angle estimation
 
-Code notes:
+### Code notes:
 
 Run JointAngle_main.m to see the results.
