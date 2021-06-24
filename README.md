@@ -9,7 +9,7 @@ Matlab Implementation of the 3D joint angle estimation algorithm described in:
 
 Journal - Journal of Biomechanics
 Title   - IMU-based knee flexion, abduction and internal rotation estimation during drop landing and cutting tasks
-DOI     - XXX
+DOI     - https://doi.org/10.1016/j.jbiomech.2021.110549
 
 Update:
 
